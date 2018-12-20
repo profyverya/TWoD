@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-12-20 13:14 UTC\n"
-"PO-Revision-Date: 2018-12-20 17:21+0300\n"
+"PO-Revision-Date: 2018-12-20 17:34+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -146,21 +146,23 @@ msgid ""
 "$nameinput, if you are looking for missions, you can visit one of those City "
 "Guards. (8, 23 and 24, 23)"
 msgstr ""
+"$nameinput, если ты ищешь задания для выполнения, то ты можешь посетить "
+"одного из городских охранников (8,23 и 24,23)"
 
 #. [scenario]: id=01_Start
 #: TWoD/scenarios/01_Start.cfg:3
 msgid "Start"
-msgstr ""
+msgstr "Начало"
 
 #. [side]: type=Lich, id=holyfather
 #: TWoD/scenarios/01_Start.cfg:28
 msgid "Holy Father"
-msgstr ""
+msgstr "Святой Отец"
 
 #. [objective]: condition=win
 #: TWoD/scenarios/01_Start.cfg:70
 msgid "Speak to Town Holy Father. (Go to 8, 2)"
-msgstr ""
+msgstr "Поговори со Святым Отцом. (иди на.... 8, 2)"
 
 #. [message]: speaker=you
 #: TWoD/scenarios/01_Start.cfg:83
@@ -169,6 +171,8 @@ msgid ""
 "World! Either I don't know if it's good or bad,  but maybe I'll clarify this "
 "for me in future."
 msgstr ""
+"Я - Сын Смерти. Меня создали для борьбы со светом и уничтожения мира! Пока я "
+"не знаю хорошо это или плохо. Возможно я проясню это в будущем."
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:87
@@ -176,6 +180,8 @@ msgid ""
 "And now it's <i>your</i> time to join the Forces Of Our Town. Come to me, "
 "Adept."
 msgstr ""
+"И сейчас это <i>твое</i> время присоединиться к Вооруженным силам города. "
+"Подойди ко мне, Адепт."
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:98
@@ -190,7 +196,7 @@ msgstr ""
 #. [option]
 #: TWoD/scenarios/01_Start.cfg:102 TWoD/utils/story.cfg:103
 msgid "..."
-msgstr ""
+msgstr "..."
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:106
@@ -200,17 +206,17 @@ msgstr ""
 #. [text_input]
 #: TWoD/scenarios/01_Start.cfg:109
 msgid "Your name: "
-msgstr ""
+msgstr "Твое имя: "
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:121
 msgid "Good name, $nameinput!"
-msgstr ""
+msgstr "Хорошее имя, $nameinput!"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:125
 msgid "Now you should choose what type of warrior you want to be."
-msgstr ""
+msgstr "Сейчас ты должен выбрать, каким типом воина ты хочешь быть."
 
 #. [option]
 #: TWoD/scenarios/01_Start.cfg:127
@@ -219,11 +225,14 @@ msgid ""
 "Quite powerfull and healthy unit. Inspires his allies. Drawback: hardly "
 "educated, no ranged weapon, no magic."
 msgstr ""
+"<b>Боец</b> \n"
+"Достаточно сильный и здоровый юнит. Вдохновляет своих союзников. Минусы: "
+"сложнообучаем, нет дальнего оружия, нет магических способностей."
 
 #. [message]: speaker=you
 #: TWoD/scenarios/01_Start.cfg:136
 msgid "Every living being will afraid of me!"
-msgstr ""
+msgstr "Каждое живое существо будет бояться меня!"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:140
@@ -231,26 +240,30 @@ msgid ""
 "Let it be so! Now you can pick up this axe. It is quite good weapon for a "
 "novice."
 msgstr ""
+"Да будет так! Сейчас ты можешь подобрать тот топор. Это довольно неплохое "
+"оружие для новичка."
 
 #. [effect]: type=blade
 #: TWoD/scenarios/01_Start.cfg:162
 msgid "axe"
-msgstr ""
+msgstr "топор"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:176 TWoD/scenarios/01_Start.cfg:244
 msgid "Show, what you can! Destroy those Walking corpses!"
-msgstr ""
+msgstr "Покажи, что ты можешь! Уничтожь тех Ходячих трупов!"
 
 #. [objective]: condition=win
 #: TWoD/scenarios/01_Start.cfg:183 TWoD/scenarios/01_Start.cfg:251
 msgid "Destroy those  walking corpces!"
-msgstr ""
+msgstr "Уничтожь тех Ходячих трупов!"
 
 #. [objective]: condition=win
 #: TWoD/scenarios/01_Start.cfg:187 TWoD/scenarios/01_Start.cfg:255
 msgid "Walking corpses are stupid. You can easily make them fight one by one"
 msgstr ""
+"Ходячие трупы довольно глупы. Ты можешь легко заставить их сражаться по "
+"одному"
 
 #. [option]
 #: TWoD/scenarios/01_Start.cfg:195
@@ -259,18 +272,21 @@ msgid ""
 "Inflicts serious damage in ranged combat. Drawback: weak melee attack, no "
 "magic, few hitpoints."
 msgstr ""
+"<b>Лучник</b>\n"
+"Наносит серьезный урон дальним оружием. Минусы: очень слабая ближняя атака, "
+"нет магических способностей, мало здоровья."
 
 #. [message]: speaker=you
 #: TWoD/scenarios/01_Start.cfg:204
 msgid "I think that I will easily destroy all my enemies with my bow."
-msgstr ""
+msgstr "Я думаю, что с легкостью уничтожу всех врагов своим луком."
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:208
 msgid ""
 "Let it be so! Now you can pick up this crossbow. It will be a good thing for "
 "novice."
-msgstr ""
+msgstr "Да будет так! Сейчас ты можешь поднять этот"
 
 #. [effect]: type=pierce
 #: TWoD/scenarios/01_Start.cfg:230
