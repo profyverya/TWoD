@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-12-20 13:14 UTC\n"
-"PO-Revision-Date: 2018-12-20 16:28+0300\n"
+"PO-Revision-Date: 2018-12-20 17:05+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -98,33 +98,33 @@ msgstr "Вы прибыли в Город Рекрутов. Здесь верб�
 #. [objective]: condition=win
 #: TWoD/scenarios/02_Town_of_recruits.cfg:94
 msgid "Explore the town and look for missions"
-msgstr ""
+msgstr "Осмотрите город и попытайтесь выполнить какие-нибудь миссии"
 
 #. [label]
 #: TWoD/scenarios/02_Town_of_recruits.cfg:105
 msgid "Governor"
-msgstr ""
+msgstr "Губернатор"
 
 #. [message]: speaker=narrator
 #: TWoD/scenarios/02_Town_of_recruits.cfg:115
 msgid "Governor Palace. Unfortunately, now it's closed."
-msgstr ""
+msgstr "Дворец губернатора. К сожалению, он сейчас закрыт"
 
 #. [label]
 #: TWoD/scenarios/02_Town_of_recruits.cfg:147
 msgid "Temple"
-msgstr ""
+msgstr "Храм"
 
 #. [label]
 #: TWoD/scenarios/02_Town_of_recruits.cfg:166
 #: TWoD/scenarios/02_Town_of_recruits.cfg:170
 msgid "Town Guards"
-msgstr ""
+msgstr "Городская охрана"
 
 #. [label]
 #: TWoD/scenarios/02_Town_of_recruits.cfg:204
 msgid "Railway Station"
-msgstr ""
+msgstr "Железнодорожная Станция"
 
 #. [message]: speaker=narrator
 #: TWoD/scenarios/02_Town_of_recruits.cfg:225
@@ -134,6 +134,11 @@ msgid ""
 "missions. Please note that \"The World of Death\" is still in ALFA-testing. "
 "So many things don't work at all yet."
 msgstr ""
+"Дорогой, $nameinput! Добропожаловать в кампанию \"Мир Смерти\". Наша игра - "
+"это РПГ со свободным миром. В разных городах и деревнях, ты можешь выполнять "
+"разнообразные миссии. Пожалуйста, обратите внимание, что \"Мир Смерти\" все "
+"еще находится в состоянии АЛЬФА-теста. Поэтому многие вещи могут не работать "
+"в принципе."
 
 #. [message]: speaker=n1
 #: TWoD/scenarios/02_Town_of_recruits.cfg:229
