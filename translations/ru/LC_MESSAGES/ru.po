@@ -3,7 +3,7 @@ msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
 "POT-Creation-Date: 2018-12-20 13:14 UTC\n"
-"PO-Revision-Date: 2018-12-20 17:05+0300\n"
+"PO-Revision-Date: 2018-12-20 17:21+0300\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
@@ -21,7 +21,7 @@ msgid ""
 "Capital (South-east). "
 msgstr ""
 "Подземный мир - основная карта Королевства Смерти. Столица Королевства - "
-"Дарк Капиталь (На Юго-Востоке)."
+"Дарк Капиталь (На Юго-Востоке)"
 
 #. [side]: type=Warrior, id=you
 #: TWoD/scenarios/03_Underworld.cfg:19 TWoD/scenarios/04_Dark_Capital.cfg:19
@@ -108,7 +108,7 @@ msgstr "Губернатор"
 #. [message]: speaker=narrator
 #: TWoD/scenarios/02_Town_of_recruits.cfg:115
 msgid "Governor Palace. Unfortunately, now it's closed."
-msgstr "Дворец губернатора. К сожалению, он сейчас закрыт"
+msgstr "Дворец губернатора. К сожалению, он сейчас закрыт."
 
 #. [label]
 #: TWoD/scenarios/02_Town_of_recruits.cfg:147
@@ -280,24 +280,24 @@ msgstr ""
 #. [message]: speaker=narrator
 #: TWoD/scenarios/01_Start.cfg:271
 msgid "Brraaaiinnsss!!!"
-msgstr ""
+msgstr "Моооооззззггииии!!!"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:281
 msgid "Good start!"
-msgstr ""
+msgstr "Хорошее начало!"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:290
 msgid "Second walking corpse sent back to the cemetry!"
-msgstr ""
+msgstr "Второй ходячий труп отправлен назад, на кладбище!"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:299
 msgid ""
 "You have won in this small battle! Now you should go to the town and start "
 "your journey in The World of Death! Good luck, $nameinput!"
-msgstr ""
+msgstr "Ты выиграл в этот небольшом побоище! Сейчас ты дол"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:320
