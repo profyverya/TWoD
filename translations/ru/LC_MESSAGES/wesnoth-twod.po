@@ -2,17 +2,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-12-20 13:14 UTC\n"
-"PO-Revision-Date: 2018-12-20 17:34+0300\n"
+"POT-Creation-Date: 2018-12-21 15:23 UTC\n"
+"PO-Revision-Date: 2018-12-21 18:24+0300\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language-Team: \n"
 "X-Generator: Poedit 2.2\n"
-"Last-Translator: \n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
-"Language: ru\n"
 
 #. [part]
 #: TWoD/scenarios/03_Underworld.cfg:11
@@ -21,13 +21,13 @@ msgid ""
 "Capital (South-east). "
 msgstr ""
 "Подземный мир - основная карта Королевства Смерти. Столица Королевства - "
-"Дарк Капиталь (На Юго-Востоке)"
+"Дарк Капиталь (На Юго-Востоке). "
 
 #. [side]: type=Warrior, id=you
 #: TWoD/scenarios/03_Underworld.cfg:19 TWoD/scenarios/04_Dark_Capital.cfg:19
 #: TWoD/scenarios/02_Town_of_recruits.cfg:19
 msgid "$nameinput"
-msgstr ""
+msgstr "$nameinput"
 
 #. [side]: type=Warrior, id=you
 #. [side]: type=Lich, id=holyfather
@@ -191,6 +191,9 @@ msgid ""
 "defeate the death. But in order to achieve this we must kill a lot of "
 "Wesnothians, trying to stop us."
 msgstr ""
+"Адепт Смерти, добро пожаловать в ряды армии тьмы. Ты будешь одним из сотен "
+"воинов борющихся за новый порядок. Вместе мы победим смерть. Но для этого мы "
+"должны убить множество Веснотцев, пытающихся остановить нас."
 
 #. [message]: speaker=you
 #. [option]
@@ -201,7 +204,7 @@ msgstr "..."
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:106
 msgid "What is your name, Adept?"
-msgstr ""
+msgstr "Как тебя зовут, Адепт?"
 
 #. [text_input]
 #: TWoD/scenarios/01_Start.cfg:109
@@ -286,12 +289,14 @@ msgstr "Я думаю, что с легкостью уничтожу всех в
 msgid ""
 "Let it be so! Now you can pick up this crossbow. It will be a good thing for "
 "novice."
-msgstr "Да будет так! Сейчас ты можешь поднять этот"
+msgstr ""
+"Да будет так! Сейчас ты можешь поднять этот лук. Это довольно неплохое "
+"оружие для новичка."
 
 #. [effect]: type=pierce
 #: TWoD/scenarios/01_Start.cfg:230
 msgid "bow"
-msgstr ""
+msgstr "лук"
 
 #. [message]: speaker=narrator
 #: TWoD/scenarios/01_Start.cfg:271
@@ -313,7 +318,9 @@ msgstr "Второй ходячий труп отправлен назад, на
 msgid ""
 "You have won in this small battle! Now you should go to the town and start "
 "your journey in The World of Death! Good luck, $nameinput!"
-msgstr "Ты выиграл в этот небольшом побоище! Сейчас ты дол"
+msgstr ""
+"Ты выиграл в этот небольшом побоище! Сейчас ты долен пойти в город и начать "
+"путешествие по Миру Смерти! Удачи, $nameinput!"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:320
@@ -321,43 +328,48 @@ msgid ""
 "I will give you 200 goldpieces. You can earn more if you fulfill missions "
 "for the town guard. Use it wisely and try to stay alive in this terrible war!"
 msgstr ""
+"Я дам тебе 200 золота. Ты можешь заработать намного больше, выполняя задания "
+"городской стражи. Использую начальное золото мудро и постарайся выжить в "
+"этой ужасной войне!"
 
 #. [message]: speaker=you
 #: TWoD/scenarios/01_Start.cfg:368
 msgid "How could this happen?"
-msgstr ""
+msgstr "Как это могло произойти?"
 
 #. [message]: speaker=holyfather
 #: TWoD/scenarios/01_Start.cfg:372
 msgid "Hahaha!! I will find someone else."
-msgstr ""
+msgstr "Хахаха!! Я найду кого-нибудь другого."
 
 #. [unit_type]: id=Archer, race=undead
 #: TWoD/units/Archer.cfg:4
 msgid "Archer of Death"
-msgstr ""
+msgstr "Лучник Смерти"
 
 #. [unit_type]: id=Archer, race=undead
 #: TWoD/units/Archer.cfg:17
 msgid "An Archer of Death is one of the acolytes of The Kingdom of Death"
 msgstr ""
+"Лучник смерти - один из аколитов Королевства смерти (какая ужасная "
+"тавтология!)"
 
 #. [unit_type]: id=Warrior, race=undead
 #: TWoD/units/Warrior.cfg:4
 msgid "Warrior of Death"
-msgstr ""
+msgstr "Боец Смерти"
 
 #. [unit_type]: id=Warrior, race=undead
 #: TWoD/units/Warrior.cfg:18
 msgid "Warrior of Death is one of acolytes of The Kingdom of Death."
-msgstr ""
+msgstr "Боец смерти - один из аколитов Королевства Смерти."
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:27
 msgid ""
 "$nameinput, it seems to me, you are a new soldier, looking for gold and "
 "fame? "
-msgstr ""
+msgstr "$nameinput, похоже, что ты новый солдат, ищущий золото и известность? "
 
 #. [message]: speaker=you
 #: TWoD/utils/story.cfg:31
@@ -365,6 +377,7 @@ msgid ""
 "Yes, but I'm quite disappointed. Our enemies are so strong and I'm so "
 "unexperienced.."
 msgstr ""
+"Да, но я слегка разочарован. Наши враги такие сильные, а я такой неопытный.."
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:35
@@ -378,6 +391,14 @@ msgid ""
 "speed, damage or number of attacks. So level by level you will be more and "
 "more powerfull."
 msgstr ""
+"Да, увы, это так. Но ты можешь довольно легко усилить своего персонажа. "
+"Также как и в других кампаниях Веснота, в нашей игре ты можешь получать опыт "
+"убивая слабых врагов. Также в ТВоД (сокращение от \"The World of Death\") ты "
+"можешь получать опыт выполняя сюжетные миссии. Например, этот диалог - твоя "
+"первая сюжетная миссия. Ты получаешь 10 оп за нее. Когда ты наберешь "
+"достаточно опыта, ты сможешь выбрать что ты хочешь усилить: здоровье, "
+"скорость или количество атак. То есть с каждым уровнем ты будешь становиться "
+"сильнее и сильнее."
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:39
@@ -385,16 +406,19 @@ msgid ""
 "And the last thing I want to tell you: if you don't know where to go next "
 "than just right-click on your character and select menu story. Good luck!"
 msgstr ""
+"И последняя вещь, которую я должен сказать тебе: если в какой-то момент  ты "
+"поймешь, что не знаешь куда идти дальше, то тебе достаточно кликнуть правой "
+"кнопкой мыши по своему герою и выбрать пункт меню \"Сюжет\". Удачи!"
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:59
 msgid "If you have any questions, you can ask me now."
-msgstr ""
+msgstr "Если у тебя сейчас есть какие-то вопросы, то ты можешь мне их задать."
 
 #. [option]
 #: TWoD/utils/story.cfg:61
 msgid "Can you give me some money? I promise I'll pay it back."
-msgstr ""
+msgstr "Дай мне пожалуйята немного золота? Я обещаю, что верну."
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:65
@@ -402,11 +426,15 @@ msgid ""
 "Are you joking? Holy Father already gave you 200 gp! It is enough for "
 "begining. If you want more, you should work."
 msgstr ""
+"Ты шутишь? Святой Отец уже дал тебе аж 200 золота! Этого достаточно для "
+"начала. Если ты хочешь больше, то нужно работать."
 
 #. [option]
 #: TWoD/utils/story.cfg:70
 msgid "Maybe you have some mission for me? (additional mission!)"
 msgstr ""
+"Может быть у тебя есть какое-нибудь задание для меня? (необязательная "
+"сюжетная миссия!)"
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:80
@@ -415,11 +443,17 @@ msgid ""
 "near Dark Capital. If you have enough time you can go there. However, I can "
 "pay you only 12 gp for this. Do you want to do this?"
 msgstr ""
+"Конечно есть! У меня есть одно личное письмо для моего друга. Он - солдат "
+"рядом с Дарк Капиталь. (переводчик дебил) Если у тебя есть свободное время, "
+"то ты можешь пойти туда. Как бы то ни было я плачу только 12 золота за это. "
+"Тебя заинтересовало?"
 
 #. [option]
 #: TWoD/utils/story.cfg:82
 msgid "Yes, I need some money. It's not difficult work, so 12 gp is enough"
 msgstr ""
+"Да, мне нужны деньги. Это несложная работа, поэтому 12 золота будет "
+"достаточно"
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:88
@@ -428,21 +462,24 @@ msgid ""
 "to say: he will pay you too. So you will earn not 12, but 62 gp for this "
 "mission. Goodbye!"
 msgstr ""
+"Великолепно! Тогда иди в Подземный мир и найди его в деревне с координатами "
+"39, 36. И я забыл сказать: он тебе заплатит тоже. Поэтому ты заработаешь не "
+"12, а 62 золота за это задание. Гудбай!"
 
 #. [option]
 #: TWoD/utils/story.cfg:90
 msgid "Thank you very match! Goodbye!"
-msgstr ""
+msgstr "Большое спасибо! До свидания!"
 
 #. [option]
 #: TWoD/utils/story.cfg:97
 msgid "Goodbye!"
-msgstr ""
+msgstr "До свидания!"
 
 #. [option]
 #: TWoD/utils/story.cfg:112
 msgid "Seriously? For 12 gp I wouldn't do anything!"
-msgstr ""
+msgstr "Серьезно? За 12 золота я не буду ничего делать!"
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:120
@@ -450,11 +487,14 @@ msgid ""
 "It's so bad! I forgot to tell you that my friend would pay you much more for "
 "this easy work. But if you don't want to go, I would find someone else."
 msgstr ""
+"Как жаль! Я забыл тебе сказать, что мой друг заплатит тебе намного больше за "
+"эту легкую работу. Но если ты не хочешь, то я найду другого, кто не будет "
+"лениться."
 
 #. [option]
 #: TWoD/utils/story.cfg:128
 msgid "Nothing. Thanks!"
-msgstr ""
+msgstr "Ничего. Спасибо!"
 
 #. [message]: speaker=n3
 #: TWoD/utils/story.cfg:132
@@ -462,11 +502,14 @@ msgid ""
 "Well. If you have no questions than go to railway station. As I know, they "
 "have some problems. Maybe you can help them."
 msgstr ""
+"Хорошо. Если у тебя нет вопросов то иди на железнодорожную станцию. "
+"Насколько я знаю у железнодорожников есть какие-то проблемы. Возможно ты "
+"можешь помочь им."
 
 #. [message]: speaker=you
 #: TWoD/utils/story.cfg:165
 msgid "I need to go to 36, 39. Number 3 promised to give me 62 gp."
-msgstr ""
+msgstr "Я должен пойти на 36, 39. Намбер 3 обещал дать мне 62 золота."
 
 #. [message]: speaker=narrator
 #: TWoD/utils/story.cfg:175
@@ -474,11 +517,13 @@ msgid ""
 "Oh! Thank you very match for this letter. I was waiting for it for ages.. "
 "Maybe you are wondering where to go next?"
 msgstr ""
+"О! Премного благодарен за это письмо. Я ожидал его целую вечность.. "
+"Наверное, тебе интересно, куда идти дальше?"
 
 #. [message]: speaker=you
 #: TWoD/utils/story.cfg:179
 msgid "Yes, sir!"
-msgstr ""
+msgstr "Так точно, сэр!"
 
 #. [message]: speaker=narrator
 #: TWoD/utils/story.cfg:183
@@ -486,6 +531,8 @@ msgid ""
 "Okay. As I know in Town of Recruits at Railway Station there are some "
 "problems with Orcs. Maybe you can help them."
 msgstr ""
+"Окей. Насколько я знаю железнодорожники Города Рекрутов испытывают какие-то "
+"проблемы с орками. Наверное ты можешь помочь им."
 
 #. [message]: speaker=you
 #: TWoD/utils/story.cfg:202
@@ -493,6 +540,8 @@ msgid ""
 "I need to go to Town of Recruits and find one of City Guards there. I think "
 "they can find some work for me"
 msgstr ""
+"Я должен пойти в Город Рекрутов и найти городскую охрану там. Я думаю, что "
+"они смогут найти мне работу"
 
 #. [message]: speaker=you
 #: TWoD/utils/story.cfg:209
@@ -500,6 +549,9 @@ msgid ""
 "Number 3 promised 62 gp for letter delivery. I need to go to Underworld and "
 "find one village near Dark Capital. As guard said it is 36, 39."
 msgstr ""
+"Намбер 3 обещал мне дать 62 золота за доставку письма. Мне нужно пойти в "
+"Подземный мир и найти одну деревню около Дарк Капиталя. Как говорил охранник "
+"это на 36, 39."
 
 #. [message]: speaker=you
 #: TWoD/utils/story.cfg:216
@@ -507,6 +559,8 @@ msgid ""
 "Some problems at Railway Station in Town of Recruits.. I think it can be "
 "quite chalenging."
 msgstr ""
+"Какие-то проблемы на Железнодорожной Станции. Я думаю это будет не так "
+"просто."
 
 #. [message]: speaker=you
 #: TWoD/utils/story.cfg:222
@@ -514,64 +568,72 @@ msgid ""
 "It seems that I have already finished all story missions.. Maybe, Profyverya "
 "will add some new soon?"
 msgstr ""
+"Похоже я закончил все сюжетные миссии.. Может быть Профывер скоро добавит "
+"новые?"
 
 #. [option]
-#: TWoD/utils/missions.cfg:10
+#: TWoD/utils/missions.cfg:22
 msgid ""
-"Kill {VICTIM} for {REWARD} gp. (Your reputation will be increased by "
-"{REPUTATION}.)"
+"Kill $victim for $reward gp. (Your reputation will be increased by "
+"$reputation.)"
 msgstr ""
+"Убей $victim за $reward золота. (Твоя репутация повысится на $reputation.)"
 
 #. [message]: speaker=narrator
-#: TWoD/utils/missions.cfg:15
+#: TWoD/utils/missions.cfg:39
 msgid ""
-"You need to kill {VICTIM} on {X},{Y} in {MAP_NAME}. When you finish you will "
-"recieve {REWARD} gp. Good luck, $nameinput!"
+"You need to kill $m_victim on $m_x, $m_y in $map_name. When you finish you "
+"will recieve $m_reward gp. Good luck, $nameinput!"
 msgstr ""
+"Ты должен убить $m_victim на $m_x, $m_y в map_name. Когда ты закончишь, ты "
+"получишь $m_reward золота. Удачи, $nameinput!"
 
 #. [label]
-#: TWoD/utils/missions.cfg:67 TWoD/utils/missions.cfg:108
+#: TWoD/utils/missions.cfg:83 TWoD/utils/missions.cfg:124
 msgid "Mission!"
-msgstr ""
+msgstr "Задание!"
 
 #. [message]: speaker=narrator
-#: TWoD/utils/missions.cfg:89 TWoD/utils/missions.cfg:123
+#: TWoD/utils/missions.cfg:105 TWoD/utils/missions.cfg:139
 msgid ""
 "Good work, $nameinput! Your reputation was increased by $m_reputation and "
 "you have recieved $m_reward gp!"
 msgstr ""
+"Хорошая работа, $nameinput! Твоя репутация была увеличена на $m_reputation и "
+"ты получил $m_reward золота!"
 
 #. [advancement]: id=hp
 #: TWoD/utils/amla.cfg:5
 msgid "10% more hp"
-msgstr ""
+msgstr "На 10% больше здоровья"
 
 #. [advancement]: id=moves
 #: TWoD/utils/amla.cfg:19
 msgid "You will run away of your enemies even faster than now! (+1 move)"
-msgstr ""
+msgstr "Ты будешь убегать от врагов еще быстрее чем сейчас! (+1 к скорости)"
 
 #. [advancement]: id=skirmish
 #: TWoD/utils/amla.cfg:35
 msgid "You will ignore enemies zones of control (ability skirmisher)"
 msgstr ""
+"Ты будешь игнорировать вражеские зоны контроля (способность неуловимого)"
 
 #. [advancement]: id=melee_damage
 #: TWoD/utils/amla.cfg:53
 msgid "Increase melee damage! (+1 damage)"
-msgstr ""
+msgstr "Увеличить урон в ближнем бою! (+1 к урону)"
 
 #. [advancement]
 #: TWoD/utils/amla.cfg:70
 msgid "Increase number of melee attacks! (+1 attack)"
-msgstr ""
+msgstr "Увеличить количество атак в ближнем бою! (+1 атака)"
 
 #. [advancement]: id=melee_damage
 #: TWoD/utils/amla.cfg:91
 msgid "Increase ranged damage! (+1 damage)"
-msgstr ""
+msgstr "Увеличить урон в дальнем бою! (+1 к урону)"
 
 #. [advancement]: id=melee_attacks
 #: TWoD/utils/amla.cfg:108
 msgid "Increase number of ranged attacks! (+1 attack)"
-msgstr ""
+msgstr "Увеличить количество атак в дальнем бою! (+1 атака)"
