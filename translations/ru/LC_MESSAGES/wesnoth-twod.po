@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-12-21 15:23 UTC\n"
-"PO-Revision-Date: 2018-12-21 18:24+0300\n"
+"POT-Creation-Date: 2018-12-22 13:30 UTC\n"
+"PO-Revision-Date: 2018-12-22 16:33+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -13,6 +13,11 @@ msgstr ""
 "X-Generator: Poedit 2.2\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
+
+#. [scenario]: id=03_Underworld
+#: TWoD/scenarios/03_Underworld.cfg:5
+msgid "Underworld"
+msgstr "Подземный мир"
 
 #. [part]
 #: TWoD/scenarios/03_Underworld.cfg:11
@@ -31,9 +36,11 @@ msgstr "$nameinput"
 
 #. [side]: type=Warrior, id=you
 #. [side]: type=Lich, id=holyfather
+#. [text_input]
 #: TWoD/scenarios/03_Underworld.cfg:22 TWoD/scenarios/04_Dark_Capital.cfg:22
 #: TWoD/scenarios/02_Town_of_recruits.cfg:22 TWoD/scenarios/01_Start.cfg:15
 #: TWoD/scenarios/01_Start.cfg:22 TWoD/scenarios/01_Start.cfg:34
+#: TWoD/scenarios/01_Start.cfg:110
 msgid "Player"
 msgstr "Игрок"
 
@@ -44,12 +51,14 @@ msgid "Enemies"
 msgstr "Враги"
 
 #. [label]
-#: TWoD/scenarios/03_Underworld.cfg:63
+#. [scenario]: id=02_Town_of_recruits
+#: TWoD/scenarios/03_Underworld.cfg:63 TWoD/scenarios/02_Town_of_recruits.cfg:5
 msgid "Town of Recruits"
 msgstr "Город Рекрутов"
 
 #. [label]
-#: TWoD/scenarios/03_Underworld.cfg:83
+#. [scenario]: id=04_Dark_Capital
+#: TWoD/scenarios/03_Underworld.cfg:83 TWoD/scenarios/04_Dark_Capital.cfg:5
 msgid "Dark Capital"
 msgstr "Дарк Капиталь"
 
@@ -151,8 +160,8 @@ msgstr ""
 
 #. [scenario]: id=01_Start
 #: TWoD/scenarios/01_Start.cfg:3
-msgid "Start"
-msgstr "Начало"
+msgid "Town of Recruits's Temple"
+msgstr "Храм Города Рекрутов"
 
 #. [side]: type=Lich, id=holyfather
 #: TWoD/scenarios/01_Start.cfg:28
@@ -535,7 +544,16 @@ msgstr ""
 "проблемы с орками. Наверное ты можешь помочь им."
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:202
+#: TWoD/utils/story.cfg:200
+msgid ""
+"Railway Station in fantasy game is quite odd, isn't it? Anyway, I should go "
+"to Railway Station in Town of Recruits."
+msgstr ""
+"Железнодорожная станция в фэнтези игре - это довольно необычно, не так ли? "
+"Как бы то ни было, мне следует пойти на ж/д станцию Города Рекрутов."
+
+#. [message]: speaker=you
+#: TWoD/utils/story.cfg:224
 msgid ""
 "I need to go to Town of Recruits and find one of City Guards there. I think "
 "they can find some work for me"
@@ -544,7 +562,7 @@ msgstr ""
 "они смогут найти мне работу"
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:209
+#: TWoD/utils/story.cfg:231
 msgid ""
 "Number 3 promised 62 gp for letter delivery. I need to go to Underworld and "
 "find one village near Dark Capital. As guard said it is 36, 39."
@@ -554,7 +572,7 @@ msgstr ""
 "это на 36, 39."
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:216
+#: TWoD/utils/story.cfg:238
 msgid ""
 "Some problems at Railway Station in Town of Recruits.. I think it can be "
 "quite chalenging."
@@ -563,7 +581,7 @@ msgstr ""
 "просто."
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:222
+#: TWoD/utils/story.cfg:244
 msgid ""
 "It seems that I have already finished all story missions.. Maybe, Profyverya "
 "will add some new soon?"
@@ -637,3 +655,6 @@ msgstr "Увеличить урон в дальнем бою! (+1 к урону)
 #: TWoD/utils/amla.cfg:108
 msgid "Increase number of ranged attacks! (+1 attack)"
 msgstr "Увеличить количество атак в дальнем бою! (+1 атака)"
+
+#~ msgid "Start"
+#~ msgstr "Начало"
