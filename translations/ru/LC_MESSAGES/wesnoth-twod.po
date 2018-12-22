@@ -2,8 +2,8 @@ msgid ""
 msgstr ""
 "Project-Id-Version: \n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2018-12-22 13:30 UTC\n"
-"PO-Revision-Date: 2018-12-22 16:33+0300\n"
+"POT-Creation-Date: 2018-12-22 17:57 UTC\n"
+"PO-Revision-Date: 2018-12-22 20:58+0300\n"
 "Last-Translator: \n"
 "Language-Team: \n"
 "Language: ru\n"
@@ -77,8 +77,8 @@ msgstr ""
 
 #. [label]
 #: TWoD/scenarios/04_Dark_Capital.cfg:51
-#: TWoD/scenarios/02_Town_of_recruits.cfg:120 TWoD/scenarios/01_Start.cfg:307
-#: TWoD/scenarios/01_Start.cfg:342
+#: TWoD/scenarios/02_Town_of_recruits.cfg:120 TWoD/scenarios/01_Start.cfg:301
+#: TWoD/scenarios/01_Start.cfg:336
 msgid "Exit"
 msgstr "Выход"
 
@@ -256,29 +256,29 @@ msgstr ""
 "оружие для новичка."
 
 #. [effect]: type=blade
-#: TWoD/scenarios/01_Start.cfg:162
+#: TWoD/scenarios/01_Start.cfg:159
 msgid "axe"
 msgstr "топор"
 
 #. [message]: speaker=holyfather
-#: TWoD/scenarios/01_Start.cfg:176 TWoD/scenarios/01_Start.cfg:244
+#: TWoD/scenarios/01_Start.cfg:173 TWoD/scenarios/01_Start.cfg:241
 msgid "Show, what you can! Destroy those Walking corpses!"
 msgstr "Покажи, что ты можешь! Уничтожь тех Ходячих трупов!"
 
 #. [objective]: condition=win
-#: TWoD/scenarios/01_Start.cfg:183 TWoD/scenarios/01_Start.cfg:251
+#: TWoD/scenarios/01_Start.cfg:180 TWoD/scenarios/01_Start.cfg:248
 msgid "Destroy those  walking corpces!"
 msgstr "Уничтожь тех Ходячих трупов!"
 
 #. [objective]: condition=win
-#: TWoD/scenarios/01_Start.cfg:187 TWoD/scenarios/01_Start.cfg:255
+#: TWoD/scenarios/01_Start.cfg:184 TWoD/scenarios/01_Start.cfg:252
 msgid "Walking corpses are stupid. You can easily make them fight one by one"
 msgstr ""
 "Ходячие трупы довольно глупы. Ты можешь легко заставить их сражаться по "
 "одному"
 
 #. [option]
-#: TWoD/scenarios/01_Start.cfg:195
+#: TWoD/scenarios/01_Start.cfg:192
 msgid ""
 "<b>Archer</b>\n"
 "Inflicts serious damage in ranged combat. Drawback: weak melee attack, no "
@@ -289,12 +289,12 @@ msgstr ""
 "нет магических способностей, мало здоровья."
 
 #. [message]: speaker=you
-#: TWoD/scenarios/01_Start.cfg:204
+#: TWoD/scenarios/01_Start.cfg:201
 msgid "I think that I will easily destroy all my enemies with my bow."
 msgstr "Я думаю, что с легкостью уничтожу всех врагов своим луком."
 
 #. [message]: speaker=holyfather
-#: TWoD/scenarios/01_Start.cfg:208
+#: TWoD/scenarios/01_Start.cfg:205
 msgid ""
 "Let it be so! Now you can pick up this crossbow. It will be a good thing for "
 "novice."
@@ -303,27 +303,27 @@ msgstr ""
 "оружие для новичка."
 
 #. [effect]: type=pierce
-#: TWoD/scenarios/01_Start.cfg:230
+#: TWoD/scenarios/01_Start.cfg:227
 msgid "bow"
 msgstr "лук"
 
 #. [message]: speaker=narrator
-#: TWoD/scenarios/01_Start.cfg:271
+#: TWoD/scenarios/01_Start.cfg:268
 msgid "Brraaaiinnsss!!!"
 msgstr "Моооооззззггииии!!!"
 
 #. [message]: speaker=holyfather
-#: TWoD/scenarios/01_Start.cfg:281
+#: TWoD/scenarios/01_Start.cfg:278
 msgid "Good start!"
 msgstr "Хорошее начало!"
 
 #. [message]: speaker=holyfather
-#: TWoD/scenarios/01_Start.cfg:290
+#: TWoD/scenarios/01_Start.cfg:287
 msgid "Second walking corpse sent back to the cemetry!"
 msgstr "Второй ходячий труп отправлен назад, на кладбище!"
 
 #. [message]: speaker=holyfather
-#: TWoD/scenarios/01_Start.cfg:299
+#: TWoD/scenarios/01_Start.cfg:296
 msgid ""
 "You have won in this small battle! Now you should go to the town and start "
 "your journey in The World of Death! Good luck, $nameinput!"
@@ -332,7 +332,7 @@ msgstr ""
 "путешествие по Миру Смерти! Удачи, $nameinput!"
 
 #. [message]: speaker=holyfather
-#: TWoD/scenarios/01_Start.cfg:320
+#: TWoD/scenarios/01_Start.cfg:314
 msgid ""
 "I will give you 200 goldpieces. You can earn more if you fulfill missions "
 "for the town guard. Use it wisely and try to stay alive in this terrible war!"
@@ -342,12 +342,12 @@ msgstr ""
 "этой ужасной войне!"
 
 #. [message]: speaker=you
-#: TWoD/scenarios/01_Start.cfg:368
+#: TWoD/scenarios/01_Start.cfg:362
 msgid "How could this happen?"
 msgstr "Как это могло произойти?"
 
 #. [message]: speaker=holyfather
-#: TWoD/scenarios/01_Start.cfg:372
+#: TWoD/scenarios/01_Start.cfg:366
 msgid "Hahaha!! I will find someone else."
 msgstr "Хахаха!! Я найду кого-нибудь другого."
 
@@ -473,7 +473,7 @@ msgid ""
 msgstr ""
 "Великолепно! Тогда иди в Подземный мир и найди его в деревне с координатами "
 "39, 36. И я забыл сказать: он тебе заплатит тоже. Поэтому ты заработаешь не "
-"12, а 62 золота за это задание. Гудбай!"
+"12, а 62 золота за это задание. До свидания!"
 
 #. [option]
 #: TWoD/utils/story.cfg:90
@@ -516,12 +516,18 @@ msgstr ""
 "можешь помочь им."
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:165
-msgid "I need to go to 36, 39. Number 3 promised to give me 62 gp."
-msgstr "Я должен пойти на 36, 39. Намбер 3 обещал дать мне 62 золота."
+#: TWoD/utils/story.cfg:163
+msgid "I need to go to 39, 36. Number 3 promised to give me 62 gp."
+msgstr "Я должен пойти на 39, 36. Намбер 3 обещал дать мне 62 золота."
+
+#. [label]
+#: TWoD/utils/story.cfg:167 TWoD/utils/missions.cfg:83
+#: TWoD/utils/missions.cfg:125
+msgid "Mission!"
+msgstr "Задание!"
 
 #. [message]: speaker=narrator
-#: TWoD/utils/story.cfg:175
+#: TWoD/utils/story.cfg:181
 msgid ""
 "Oh! Thank you very match for this letter. I was waiting for it for ages.. "
 "Maybe you are wondering where to go next?"
@@ -530,12 +536,12 @@ msgstr ""
 "Наверное, тебе интересно, куда идти дальше?"
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:179
+#: TWoD/utils/story.cfg:185
 msgid "Yes, sir!"
 msgstr "Так точно, сэр!"
 
 #. [message]: speaker=narrator
-#: TWoD/utils/story.cfg:183
+#: TWoD/utils/story.cfg:189
 msgid ""
 "Okay. As I know in Town of Recruits at Railway Station there are some "
 "problems with Orcs. Maybe you can help them."
@@ -544,7 +550,7 @@ msgstr ""
 "проблемы с орками. Наверное ты можешь помочь им."
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:200
+#: TWoD/utils/story.cfg:207
 msgid ""
 "Railway Station in fantasy game is quite odd, isn't it? Anyway, I should go "
 "to Railway Station in Town of Recruits."
@@ -552,8 +558,13 @@ msgstr ""
 "Железнодорожная станция в фэнтези игре - это довольно необычно, не так ли? "
 "Как бы то ни было, мне следует пойти на ж/д станцию Города Рекрутов."
 
+#. [message]: speaker=narrator
+#: TWoD/utils/story.cfg:216
+msgid "Working on..."
+msgstr "Еще не готово..."
+
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:224
+#: TWoD/utils/story.cfg:231
 msgid ""
 "I need to go to Town of Recruits and find one of City Guards there. I think "
 "they can find some work for me"
@@ -562,7 +573,7 @@ msgstr ""
 "они смогут найти мне работу"
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:231
+#: TWoD/utils/story.cfg:238
 msgid ""
 "Number 3 promised 62 gp for letter delivery. I need to go to Underworld and "
 "find one village near Dark Capital. As guard said it is 36, 39."
@@ -572,7 +583,7 @@ msgstr ""
 "это на 36, 39."
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:238
+#: TWoD/utils/story.cfg:245
 msgid ""
 "Some problems at Railway Station in Town of Recruits.. I think it can be "
 "quite chalenging."
@@ -581,7 +592,7 @@ msgstr ""
 "просто."
 
 #. [message]: speaker=you
-#: TWoD/utils/story.cfg:244
+#: TWoD/utils/story.cfg:251
 msgid ""
 "It seems that I have already finished all story missions.. Maybe, Profyverya "
 "will add some new soon?"
@@ -606,13 +617,8 @@ msgstr ""
 "Ты должен убить $m_victim на $m_x, $m_y в map_name. Когда ты закончишь, ты "
 "получишь $m_reward золота. Удачи, $nameinput!"
 
-#. [label]
-#: TWoD/utils/missions.cfg:83 TWoD/utils/missions.cfg:124
-msgid "Mission!"
-msgstr "Задание!"
-
 #. [message]: speaker=narrator
-#: TWoD/utils/missions.cfg:105 TWoD/utils/missions.cfg:139
+#: TWoD/utils/missions.cfg:105 TWoD/utils/missions.cfg:140
 msgid ""
 "Good work, $nameinput! Your reputation was increased by $m_reputation and "
 "you have recieved $m_reward gp!"
