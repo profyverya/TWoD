@@ -5,17 +5,17 @@ msgid ""
 msgstr ""
 "Project-Id-Version: unnamed project\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-05-01 11:27 UTC\n"
-"PO-Revision-Date: 2019-05-01 19:52+0300\n"
+"POT-Creation-Date: 2019-05-03 11:34 UTC\n"
+"PO-Revision-Date: 2019-05-03 14:51+0300\n"
+"Last-Translator: profyver <the.pfvi@gmail.com>\n"
+"Language-Team: Russian <the.pfvi@gmail.com>\n"
+"Language: ru\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"Language-Team: Russian <the.pfvi@gmail.com>\n"
 "X-Generator: Gtranslator 3.32.1\n"
-"Last-Translator: profyver <the.pfvi@gmail.com>\n"
 "Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
 "%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2)\n"
-"Language: ru\n"
 
 #. [message]: speaker=n3
 #: TWoD-master/utils/story.cfg:27
@@ -166,8 +166,8 @@ msgid "I need to go to 39, 36. Number 3 promised to give me 62 gp."
 msgstr "Я должен идти на 39, 36. Номер 3 обещал заплатить 62 gp."
 
 #. [label]
-#: TWoD-master/utils/story.cfg:167 TWoD-master/utils/missions.cfg:83
-#: TWoD-master/utils/missions.cfg:125
+#: TWoD-master/utils/story.cfg:167 TWoD-master/utils/missions.cfg:84
+#: TWoD-master/utils/missions.cfg:126
 msgid "Mission!"
 msgstr "Миссия!"
 
@@ -290,23 +290,41 @@ msgid "Increase number of ranged attacks! (+1 attack)"
 msgstr "Увеличить количество дальних атак! (+1 к количеству атак)"
 
 #. [option]
-#: TWoD-master/utils/missions.cfg:22
+#: TWoD-master/utils/missions.cfg:10
 msgid ""
-"Kill $victim for $reward gp. (Your reputation will be increased by "
-"$reputation.)"
-msgstr "Убей $victim за $reward gp (Твоя репутация увеличится на $reputation.)"
-
-#. [message]: speaker=narrator
-#: TWoD-master/utils/missions.cfg:39
-msgid ""
-"You need to kill $m_victim on $m_x, $m_y in $map_name. When you finish you "
-"will recieve $m_reward gp. Good luck, $nameinput!"
+"Kill {VICTIM} for {REWARD} gp. (Your reputation will be increased by "
+"{REPUTATION}.)"
 msgstr ""
-"Тебе нужно убить $m_victim на $m_x, $m_y в локации \"$map_name\". Когда ты "
-"закончишь, ты получишь $m_reward gp. Удачи, $nameinput!"
+"Убей {VICTIM} за {REWARD} gp (Твоя репутация увеличится на {REPUTATION}.)"
 
 #. [message]: speaker=narrator
-#: TWoD-master/utils/missions.cfg:105 TWoD-master/utils/missions.cfg:140
+#: TWoD-master/utils/missions.cfg:23
+msgid ""
+"You need to kill {VICTIM} on {X}, {Y} in {MAP_NAME}. When you finish you "
+"will recieve {REWARD} gp. Good luck, $nameinput!"
+msgstr ""
+"Тебе нужно убить {VICTIM} на {X}, {Y} в локации \"{MAP_NAME}\". Когда ты "
+"закончишь, ты получишь {REWARD} gp. Удачи, $nameinput!"
+
+#. [option]
+#: TWoD-master/utils/missions.cfg:43
+msgid ""
+"Deliver letter for {REWARD} gp. (your reputation would be increased by "
+"{REPUTATION}.)"
+msgstr ""
+"Доставь письмо за {REWARD} gp. (твоя репутация повысится на {REPUTATION}.)"
+
+#. [message]: speaker=narrator
+#: TWoD-master/utils/missions.cfg:54
+msgid ""
+"You need deliver one letter to {X}, {Y} in {MAP_NAME}. When you finish you "
+"will recieve {REWARD} gp. Good luck, $nameinput!"
+msgstr ""
+"Ты должен доставить одно письмо на {X}, {Y} в локации \"{MAP_NAME}\". Когда "
+"ты закончишь, ты получишь {REWARD} gp. Удачи, $nameinput!"
+
+#. [message]: speaker=narrator
+#: TWoD-master/utils/missions.cfg:106 TWoD-master/utils/missions.cfg:141
 msgid ""
 "Good work, $nameinput! Your reputation was increased by $m_reputation and "
 "you have recieved $m_reward gp!"
@@ -435,12 +453,12 @@ msgid "Good day, $nameinput!"
 msgstr "Добрый день, $nameinput!"
 
 #. [label]
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:204
+#: TWoD-master/scenarios/02_Town_of_recruits.cfg:205
 msgid "Railway Station"
 msgstr "Железнодорожная станция"
 
 #. [message]: speaker=narrator
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:225
+#: TWoD-master/scenarios/02_Town_of_recruits.cfg:226
 msgid ""
 "Dear, $nameinput! Welcome to \"The World Of Death\" campaign. Our game is "
 "free-world RPG. In different towns and villages you can get different "
@@ -453,10 +471,10 @@ msgstr ""
 "ранней стадии разработки. Многие вещи еще не работают в принципе."
 
 #. [message]: speaker=n1
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:229
+#: TWoD-master/scenarios/02_Town_of_recruits.cfg:230
 msgid ""
 "$nameinput, if you are looking for missions, you can visit one of those City "
-"Guards. (8, 23 and 24, 23)"
+"Guards. (8, 23 or 24, 23)"
 msgstr ""
 "$nameinput, если ты ищешь миссии, то ты можешь посетить городскую стражу. "
 "(8, 23 или 24, 23)"
@@ -626,7 +644,7 @@ msgstr "Мне не составит труда перебить всех вра
 #. [message]: speaker=holyfather
 #: TWoD-master/scenarios/01_Start.cfg:210
 msgid ""
-"Let it be so! Now you can pick up this crossbow. It will be a good thing for "
+"Let it be so! Now you can pick up this bow. It will be a good weapon for "
 "novice."
 msgstr ""
 "Да будет так! Сейчас ты можешь поднять этот арбалет. Это будет неплохим "
@@ -671,13 +689,22 @@ msgstr ""
 "для городских стражей.Используй деньги мудро и постарайся выжить в этой "
 "ужасной войне."
 
-#. [message]: speaker=you
+#. [message]: speaker=holyfather
 #: TWoD-master/scenarios/01_Start.cfg:364
+msgid ""
+"Thanks to Gray Gods, you was resurrected! However you need to pay 25% of "
+"your gold."
+msgstr ""
+"Благодаря Серым Богам, ты был воскрешен! Как бы то ни было мы взяли 25% "
+"твоего золота."
+
+#. [message]: speaker=you
+#: TWoD-master/scenarios/01_Start.cfg:389
 msgid "How could this happen?"
 msgstr "Как это могло произойти?"
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:368
+#: TWoD-master/scenarios/01_Start.cfg:393
 msgid "Hahaha!! I will find someone else."
 msgstr "Хахаха!! Я найду кого-нибудь другого."
 
