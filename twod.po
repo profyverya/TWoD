@@ -2,7 +2,7 @@ msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
 "Report-Msgid-Bugs-To: https://bugs.wesnoth.org/\n"
-"POT-Creation-Date: 2019-05-03 11:34 UTC\n"
+"POT-Creation-Date: 2019-05-05 10:07 UTC\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -11,534 +11,623 @@ msgstr ""
 "Content-Transfer-Encoding: 8bit\n"
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:27
-msgid "$nameinput, it seems to me, you are a new soldier, looking for gold and fame? "
+#: TWoD/utils/story.cfg:27
+msgid "$nameinput, it seems to me, you are a new soldier, looking for gold and fame?"
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/utils/story.cfg:31
+#: TWoD/utils/story.cfg:31
 msgid "Yes, but I'm quite disappointed. Our enemies are so strong and I'm so unexperienced.."
 msgstr ""
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:35
+#: TWoD/utils/story.cfg:35
 msgid "It's true. But you can easily reinforce your character. As well as in most another Wesnoth campaigns, in our game you can earn experience by killing weak enemies. Also in TWoD (acronym \"The World of Death\") you can earn experience by accomplishing story missions. For example, this dialog is first Story mission. You earn 10 xp for this. When you will have enough experience you will be able to select, what you want to increase: hitpoints, speed, damage or number of attacks. So level by level you will be more and more powerfull."
 msgstr ""
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:39
+#: TWoD/utils/story.cfg:39
 msgid "And the last thing I want to tell you: if you don't know where to go next than just right-click on your character and select menu story. Good luck!"
 msgstr ""
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:59
+#: TWoD/utils/story.cfg:59
 msgid "If you have any questions, you can ask me now."
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/story.cfg:61
+#: TWoD/utils/story.cfg:61
 msgid "Can you give me some money? I promise I'll pay it back."
 msgstr ""
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:65
+#: TWoD/utils/story.cfg:65
 msgid "Are you joking? Holy Father already gave you 200 gp! It is enough for begining. If you want more, you should work."
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/story.cfg:70
+#: TWoD/utils/story.cfg:70
 msgid "Maybe you have some mission for me? (additional mission!)"
 msgstr ""
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:80
+#: TWoD/utils/story.cfg:80
 msgid "Ofcourse, I do! I have one private letter for my friend. He is a soldier near Dark Capital. If you have enough time you can go there. However, I can pay you only 12 gp for this. Do you want to do this?"
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/story.cfg:82
+#: TWoD/utils/story.cfg:82
 msgid "Yes, I need some money. It's not difficult work, so 12 gp is enough"
 msgstr ""
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:88
+#: TWoD/utils/story.cfg:88
 msgid "Excelent! Than go to Underworld and find him in village 39, 36. And I forget to say: he will pay you too. So you will earn not 12, but 62 gp for this mission. Goodbye!"
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/story.cfg:90
+#: TWoD/utils/story.cfg:90
 msgid "Thank you very match! Goodbye!"
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/story.cfg:97
+#: TWoD/utils/story.cfg:97
 msgid "Goodbye!"
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/story.cfg:103
+#: TWoD/utils/story.cfg:103
 msgid "..."
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/story.cfg:112
+#: TWoD/utils/story.cfg:112
 msgid "Seriously? For 12 gp I wouldn't do anything!"
 msgstr ""
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:120
+#: TWoD/utils/story.cfg:120
 msgid "It's so bad! I forgot to tell you that my friend would pay you much more for this easy work. But if you don't want to go, I would find someone else."
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/story.cfg:128
+#: TWoD/utils/story.cfg:128
 msgid "Nothing. Thanks!"
 msgstr ""
 
 #. [message]: speaker=n3
-#: TWoD-master/utils/story.cfg:132
+#: TWoD/utils/story.cfg:132
 msgid "Well. If you have no questions than go to railway station. As I know, they have some problems. Maybe you can help them."
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/utils/story.cfg:163
+#: TWoD/utils/story.cfg:163
 msgid "I need to go to 39, 36. Number 3 promised to give me 62 gp."
 msgstr ""
 
 #. [label]
-#: TWoD-master/utils/story.cfg:167
-#: TWoD-master/utils/missions.cfg:84
-#: TWoD-master/utils/missions.cfg:126
+#: TWoD/utils/story.cfg:167
+#: TWoD/utils/missions.cfg:84
+#: TWoD/utils/missions.cfg:126
 msgid "Mission!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/utils/story.cfg:181
+#: TWoD/utils/story.cfg:181
 msgid "Oh! Thank you very match for this letter. I was waiting for it for ages.. Maybe you are wondering where to go next?"
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/utils/story.cfg:185
+#: TWoD/utils/story.cfg:185
 msgid "Yes, sir!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/utils/story.cfg:189
+#: TWoD/utils/story.cfg:189
 msgid "Okay. As I know in Town of Recruits at Railway Station there are some problems with Orcs. Maybe you can help them."
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/utils/story.cfg:207
+#: TWoD/utils/story.cfg:213
 msgid "Railway Station in fantasy game is quite odd, isn't it? Anyway, I should go to Railway Station in Town of Recruits."
 msgstr ""
 
-#. [message]: speaker=narrator
-#: TWoD-master/utils/story.cfg:216
-msgid "Working on..."
+#. [message]: speaker=n6
+#: TWoD/utils/story.cfg:222
+msgid "Finally, they sent someone.. *looks at you* Wh-what? $nameinput, are you crazy? It will be difficult mission. May be you need to buy some heal potions in shop?"
+msgstr ""
+
+#. [message]: speaker=n6
+#: TWoD/utils/story.cfg:232
+msgid "As I see you have $healP heal potions. I think it will be enough. Let's go!"
+msgstr ""
+
+#. [message]: speaker=n6
+#: TWoD/utils/story.cfg:246
+msgid "You need at least 2 heal potions, but you have $healP. Go to 4, 12 and buy some. If you don't have enough money, you can go to town guard and earn some."
+msgstr ""
+
+#. [message]: speaker=leader
+#: TWoD/utils/story.cfg:266
+msgid "You have no chances against us!"
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/utils/story.cfg:231
+#: TWoD/utils/story.cfg:270
+msgid "4 on 1.. The only advantage I have is healing potions."
+msgstr ""
+
+#. [message]: speaker=narrator
+#: TWoD/utils/story.cfg:274
+msgid "You have $healP heal potions. In order to get the maximum benefit from them you should (but <b>not</b> must) use potion only when your hitpoints are lower then 10-15."
+msgstr ""
+
+#. [message]: speaker=leader
+#: TWoD/utils/story.cfg:283
+msgid "Keep it up, warriors! We must destroy <i>it</i>."
+msgstr ""
+
+#. [message]: speaker=u2
+#: TWoD/utils/story.cfg:287
+msgid "I'll smash it with my sword!"
+msgstr ""
+
+#. [message]: speaker=u3
+#: TWoD/utils/story.cfg:291
+msgid "It's bad that  you can't be poisoned.. BUT WE WILL DESTROY YOU ANYWAY!!"
+msgstr ""
+
+#. [message]: speaker=leader
+#: TWoD/utils/story.cfg:301
+msgid "Arggghh.. It's impossible.."
+msgstr ""
+
+#. [message]: speaker=you
+#: TWoD/utils/story.cfg:326
+msgid "Finally, it's finished.. What an intense battle.. Now I need to return.."
+msgstr ""
+
+#. [label]
+#: TWoD/utils/story.cfg:330
+#: TWoD/scenarios/02_Town_of_recruits.cfg:132
+#: TWoD/scenarios/01_Start.cfg:303
+#: TWoD/scenarios/01_Start.cfg:363
+#: TWoD/scenarios/04_Dark_Capital.cfg:51
+msgid "Exit"
+msgstr ""
+
+#. [message]: speaker=you
+#: TWoD/utils/story.cfg:342
+msgid "Let's go!"
+msgstr ""
+
+#. [message]: speaker=n6
+#: TWoD/utils/story.cfg:373
+msgid "You made it??? It's strange.. Our previous hero got bottom kicked.. I'll pay you 300 gp."
+msgstr ""
+
+#. [message]: speaker=n3
+#: TWoD/utils/story.cfg:382
+msgid "Your reputation increased by 10 and now you have $reputation reputation. "
+msgstr ""
+
+#. [message]: speaker=you
+#: TWoD/utils/story.cfg:398
 msgid "I need to go to Town of Recruits and find one of City Guards there. I think they can find some work for me"
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/utils/story.cfg:238
+#: TWoD/utils/story.cfg:405
 msgid "Number 3 promised 62 gp for letter delivery. I need to go to Underworld and find one village near Dark Capital. As guard said it is 36, 39."
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/utils/story.cfg:245
+#: TWoD/utils/story.cfg:412
 msgid "Some problems at Railway Station in Town of Recruits.. I think it can be quite chalenging."
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/utils/story.cfg:251
+#: TWoD/utils/story.cfg:418
 msgid "It seems that I have already finished all story missions.. Maybe, Profyverya will add some new soon?"
 msgstr ""
 
 #. [advancement]: id=hp
-#: TWoD-master/utils/amla.cfg:5
+#: TWoD/utils/amla.cfg:5
 msgid "10% more hp"
 msgstr ""
 
 #. [advancement]: id=regen
-#: TWoD-master/utils/amla.cfg:19
+#: TWoD/utils/amla.cfg:19
 msgid "Regenerates 4 hp"
 msgstr ""
 
 #. [advancement]: id=regen_2
-#: TWoD-master/utils/amla.cfg:37
+#: TWoD/utils/amla.cfg:37
 msgid "Regenerates 8 hp"
 msgstr ""
 
 #. [advancement]: id=moves
-#: TWoD-master/utils/amla.cfg:60
+#: TWoD/utils/amla.cfg:60
 msgid "You will run away of your enemies even faster than now! (+1 move)"
 msgstr ""
 
 #. [advancement]: id=skirmish
-#: TWoD-master/utils/amla.cfg:76
+#: TWoD/utils/amla.cfg:76
 msgid "You will ignore enemies zones of control (ability skirmisher)"
 msgstr ""
 
 #. [advancement]: id=melee_damage
-#: TWoD-master/utils/amla.cfg:94
+#: TWoD/utils/amla.cfg:94
 msgid "Increase melee damage! (+1 damage)"
 msgstr ""
 
 #. [advancement]
-#: TWoD-master/utils/amla.cfg:111
+#: TWoD/utils/amla.cfg:111
 msgid "Increase number of melee attacks! (+1 attack)"
 msgstr ""
 
 #. [advancement]: id=melee_damage
-#: TWoD-master/utils/amla.cfg:132
+#: TWoD/utils/amla.cfg:132
 msgid "Increase ranged damage! (+1 damage)"
 msgstr ""
 
 #. [advancement]: id=melee_attacks
-#: TWoD-master/utils/amla.cfg:149
+#: TWoD/utils/amla.cfg:149
 msgid "Increase number of ranged attacks! (+1 attack)"
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/missions.cfg:10
+#: TWoD/utils/missions.cfg:10
 msgid "Kill {VICTIM} for {REWARD} gp. (Your reputation will be increased by {REPUTATION}.)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/utils/missions.cfg:23
+#: TWoD/utils/missions.cfg:23
 msgid "You need to kill {VICTIM} on {X}, {Y} in {MAP_NAME}. When you finish you will recieve {REWARD} gp. Good luck, $nameinput!"
 msgstr ""
 
 #. [option]
-#: TWoD-master/utils/missions.cfg:43
+#: TWoD/utils/missions.cfg:43
 msgid "Deliver letter for {REWARD} gp. (your reputation would be increased by {REPUTATION}.)"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/utils/missions.cfg:54
+#: TWoD/utils/missions.cfg:54
 msgid "You need deliver one letter to {X}, {Y} in {MAP_NAME}. When you finish you will recieve {REWARD} gp. Good luck, $nameinput!"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/utils/missions.cfg:106
-#: TWoD-master/utils/missions.cfg:141
+#: TWoD/utils/missions.cfg:106
+#: TWoD/utils/missions.cfg:141
 msgid "Good work, $nameinput! Your reputation was increased by $m_reputation and you have recieved $m_reward gp!"
 msgstr ""
 
 #. [unit_type]: id=Warrior, race=undead
-#: TWoD-master/units/Warrior.cfg:4
+#: TWoD/units/Warrior.cfg:4
 msgid "Warrior of Death"
 msgstr ""
 
 #. [unit_type]: id=Warrior, race=undead
-#: TWoD-master/units/Warrior.cfg:18
+#: TWoD/units/Warrior.cfg:18
 msgid "Warrior of Death is one of acolytes of The Kingdom of Death."
 msgstr ""
 
 #. [unit_type]: id=Archer, race=undead
-#: TWoD-master/units/Archer.cfg:4
+#: TWoD/units/Archer.cfg:4
 msgid "Archer of Death"
 msgstr ""
 
 #. [unit_type]: id=Archer, race=undead
-#: TWoD-master/units/Archer.cfg:17
+#: TWoD/units/Archer.cfg:17
 msgid "An Archer of Death is one of the acolytes of The Kingdom of Death"
 msgstr ""
 
 #. [scenario]: id=03_Underworld
-#: TWoD-master/scenarios/03_Underworld.cfg:5
+#: TWoD/scenarios/03_Underworld.cfg:5
 msgid "Underworld"
 msgstr ""
 
 #. [part]
-#: TWoD-master/scenarios/03_Underworld.cfg:11
+#: TWoD/scenarios/03_Underworld.cfg:11
 msgid "Underworld - is the map of The Kingdom of Death. The capital is The Dark Capital (South-east). "
 msgstr ""
 
 #. [side]: type=Warrior, id=you
-#: TWoD-master/scenarios/03_Underworld.cfg:19
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:19
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:19
+#: TWoD/scenarios/03_Underworld.cfg:19
+#: TWoD/scenarios/02_Town_of_recruits.cfg:19
+#: TWoD/scenarios/05_Northern_Frontline.cfg:17
+#: TWoD/scenarios/04_Dark_Capital.cfg:19
 msgid "$nameinput"
 msgstr ""
 
 #. [side]: type=Warrior, id=you
 #. [side]: type=Lich, id=holyfather
 #. [text_input]
-#: TWoD-master/scenarios/03_Underworld.cfg:22
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:22
-#: TWoD-master/scenarios/01_Start.cfg:15
-#: TWoD-master/scenarios/01_Start.cfg:21
-#: TWoD-master/scenarios/01_Start.cfg:32
-#: TWoD-master/scenarios/01_Start.cfg:115
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:22
+#: TWoD/scenarios/03_Underworld.cfg:22
+#: TWoD/scenarios/02_Town_of_recruits.cfg:22
+#: TWoD/scenarios/01_Start.cfg:15
+#: TWoD/scenarios/01_Start.cfg:21
+#: TWoD/scenarios/01_Start.cfg:32
+#: TWoD/scenarios/01_Start.cfg:115
+#: TWoD/scenarios/05_Northern_Frontline.cfg:20
+#: TWoD/scenarios/04_Dark_Capital.cfg:22
 msgid "Player"
 msgstr ""
 
 #. [side]
-#: TWoD-master/scenarios/03_Underworld.cfg:48
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:80
-#: TWoD-master/scenarios/01_Start.cfg:43
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:36
+#: TWoD/scenarios/03_Underworld.cfg:48
+#: TWoD/scenarios/02_Town_of_recruits.cfg:81
+#: TWoD/scenarios/01_Start.cfg:43
+#: TWoD/scenarios/05_Northern_Frontline.cfg:35
+#: TWoD/scenarios/04_Dark_Capital.cfg:36
 msgid "Enemies"
 msgstr ""
 
 #. [label]
 #. [scenario]: id=02_Town_of_recruits
-#: TWoD-master/scenarios/03_Underworld.cfg:63
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:5
+#: TWoD/scenarios/03_Underworld.cfg:63
+#: TWoD/scenarios/02_Town_of_recruits.cfg:5
 msgid "Town of Recruits"
 msgstr ""
 
 #. [label]
 #. [scenario]: id=04_Dark_Capital
-#: TWoD-master/scenarios/03_Underworld.cfg:83
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:5
+#: TWoD/scenarios/03_Underworld.cfg:83
+#: TWoD/scenarios/04_Dark_Capital.cfg:5
 msgid "Dark Capital"
 msgstr ""
 
 #. [part]
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:11
-msgid "This is the Town of Recruits. A town where new souls of dead are recruited"
+#: TWoD/scenarios/02_Town_of_recruits.cfg:11
+msgid "This is the Town of Recruits. A town where new souls of dead are recruited."
 msgstr ""
 
 #. [objective]: condition=win
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:94
+#: TWoD/scenarios/02_Town_of_recruits.cfg:94
 msgid "Explore the town and look for missions"
 msgstr ""
 
 #. [label]
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:105
+#: TWoD/scenarios/02_Town_of_recruits.cfg:105
+msgid "Shop"
+msgstr ""
+
+#. [label]
+#: TWoD/scenarios/02_Town_of_recruits.cfg:109
 msgid "Governor"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:115
+#: TWoD/scenarios/02_Town_of_recruits.cfg:127
 msgid "Governor Palace. Unfortunately, now it's closed."
 msgstr ""
 
 #. [label]
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:120
-#: TWoD-master/scenarios/01_Start.cfg:303
-#: TWoD-master/scenarios/01_Start.cfg:338
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:51
-msgid "Exit"
-msgstr ""
-
-#. [label]
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:147
+#: TWoD/scenarios/02_Town_of_recruits.cfg:159
 msgid "Temple"
 msgstr ""
 
 #. [label]
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:166
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:170
+#: TWoD/scenarios/02_Town_of_recruits.cfg:178
+#: TWoD/scenarios/02_Town_of_recruits.cfg:182
 msgid "Town Guards"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:194
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:98
+#: TWoD/scenarios/02_Town_of_recruits.cfg:206
+#: TWoD/scenarios/04_Dark_Capital.cfg:98
 msgid "Good day, $nameinput!"
 msgstr ""
 
 #. [label]
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:205
+#: TWoD/scenarios/02_Town_of_recruits.cfg:217
+#: TWoD/scenarios/05_Northern_Frontline.cfg:68
 msgid "Railway Station"
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:226
+#: TWoD/scenarios/02_Town_of_recruits.cfg:239
 msgid "Dear, $nameinput! Welcome to \"The World Of Death\" campaign. Our game is free-world RPG. In different towns and villages you can get different missions. Please note that \"The World of Death\" is still in ALFA-testing. So many things don't work at all yet."
 msgstr ""
 
 #. [message]: speaker=n1
-#: TWoD-master/scenarios/02_Town_of_recruits.cfg:230
+#: TWoD/scenarios/02_Town_of_recruits.cfg:243
 msgid "$nameinput, if you are looking for missions, you can visit one of those City Guards. (8, 23 or 24, 23)"
 msgstr ""
 
 #. [scenario]: id=01_Start
-#: TWoD-master/scenarios/01_Start.cfg:3
-msgid "Town of Recruits's Temple"
+#: TWoD/scenarios/01_Start.cfg:3
+msgid "Town of recruits' temple"
 msgstr ""
 
 #. [side]: type=Lich, id=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:26
+#: TWoD/scenarios/01_Start.cfg:26
 msgid "Holy Father"
 msgstr ""
 
 #. [objective]: condition=win
-#: TWoD-master/scenarios/01_Start.cfg:68
-msgid "Speak to Town Holy Father. (Go to 8, 2)"
+#: TWoD/scenarios/01_Start.cfg:68
+msgid "Talk with Holy Father. (Go to 8, 2)"
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/scenarios/01_Start.cfg:80
+#: TWoD/scenarios/01_Start.cfg:80
 msgid "I'm a new fighter. I was summoned to fight our enemies and glorify The Kingdom!"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:84
+#: TWoD/scenarios/01_Start.cfg:84
 msgid "Wellcome! Now it's your time to start this long and extremely dangerous journey. If you'll face any problems with the campaign, you can contact Profyverya on Wesnoth forum."
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:95
+#: TWoD/scenarios/01_Start.cfg:95
 msgid "Adept of Death, welcome to the ranks of our helpless army. You will be one of a few warriors fighting for a new world order. Things are bad. Maybe your assistance will be helpfull. "
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/scenarios/01_Start.cfg:99
-msgid "Well, what's happened?"
+#: TWoD/scenarios/01_Start.cfg:99
+msgid "Well, what happened?"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:103
-msgid "We have too many enemies.They're all trying to destroy us. Thanks to Gray Gods we are immortal, but if we will lose most of our temples it will be the end of our empire. "
+#: TWoD/scenarios/01_Start.cfg:103
+msgid "We have too many enemies.They're all trying to destroy us. Thanks to the Gray Gods we are immortal, but if we lose most of our temples it will be the end of our empire. "
 msgstr ""
 
 #. [message]: speaker=narrator
-#: TWoD-master/scenarios/01_Start.cfg:107
-msgid "Things are really bad. Once there were only three empires: Light Empire (people, elves, dwarfes), Dark Empire (Orcs, Trolls, Goblins) and Great Gray Empire (undead, necromancers and mages). Free state of Gray Empire prospered, Dark and Light empires fought each other. But a century before Darkness and Light created an Alliance. Their goal is the destruction of Gray Kingdom. Only you can stop them and create completely new society."
+#: TWoD/scenarios/01_Start.cfg:107
+msgid "Things are really bad. Once there were only three empires: the Light Empire (people, elves, dwarfes), the Dark Empire (Orcs, Trolls, Goblins) and the Gray Empire (undead, necromancers and mages). Free state of Gray Empire prospered, Dark and Light empires fought each other. But a century before Darkness and Light created an Alliance. Their goal is the destruction of Gray Kingdom. Only you can stop them and create completely new society."
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:111
+#: TWoD/scenarios/01_Start.cfg:111
 msgid "What is your name, Adept?"
 msgstr ""
 
 #. [text_input]
-#: TWoD-master/scenarios/01_Start.cfg:114
+#: TWoD/scenarios/01_Start.cfg:114
 msgid "Your name: "
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:126
+#: TWoD/scenarios/01_Start.cfg:126
 msgid "Good name, $nameinput!"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:130
+#: TWoD/scenarios/01_Start.cfg:130
 msgid "Now you should choose what type of warrior you want to be."
 msgstr ""
 
 #. [option]
-#: TWoD-master/scenarios/01_Start.cfg:132
+#: TWoD/scenarios/01_Start.cfg:132
 msgid ""
 "<b>Warrior</b>\n"
 "Quite powerfull and healthy unit. Inspires his allies. Drawback: hardly educated, no ranged weapon, no magic."
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/scenarios/01_Start.cfg:141
+#: TWoD/scenarios/01_Start.cfg:141
 msgid "Every living being will afraid of me!"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:145
+#: TWoD/scenarios/01_Start.cfg:145
 msgid "Let it be so! Now you can pick up this axe. It is quite good weapon for a novice."
 msgstr ""
 
 #. [effect]: type=blade
-#: TWoD-master/scenarios/01_Start.cfg:164
+#: TWoD/scenarios/01_Start.cfg:164
 msgid "axe"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:178
-#: TWoD-master/scenarios/01_Start.cfg:243
-msgid "Show, what you can! Destroy those Walking corpses!"
+#: TWoD/scenarios/01_Start.cfg:178
+msgid "Show what you can! Destroy those walking corpses!"
 msgstr ""
 
 #. [objective]: condition=win
-#: TWoD-master/scenarios/01_Start.cfg:185
-#: TWoD-master/scenarios/01_Start.cfg:250
-msgid "Destroy those  walking corpces!"
+#: TWoD/scenarios/01_Start.cfg:185
+#: TWoD/scenarios/01_Start.cfg:250
+msgid "Destroy those  walking corpses!"
 msgstr ""
 
 #. [objective]: condition=win
-#: TWoD-master/scenarios/01_Start.cfg:189
-#: TWoD-master/scenarios/01_Start.cfg:254
+#: TWoD/scenarios/01_Start.cfg:189
+#: TWoD/scenarios/01_Start.cfg:254
 msgid "Walking corpses are stupid. You can easily make them fight one by one"
 msgstr ""
 
 #. [option]
-#: TWoD-master/scenarios/01_Start.cfg:197
+#: TWoD/scenarios/01_Start.cfg:197
 msgid ""
 "<b>Archer</b>\n"
 "Inflicts serious damage in ranged combat. Drawback: weak melee attack, no magic, few hitpoints."
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/scenarios/01_Start.cfg:206
+#: TWoD/scenarios/01_Start.cfg:206
 msgid "I think that I will easily destroy all my enemies with my bow."
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:210
+#: TWoD/scenarios/01_Start.cfg:210
 msgid "Let it be so! Now you can pick up this bow. It will be a good weapon for novice."
 msgstr ""
 
 #. [effect]: type=pierce
-#: TWoD-master/scenarios/01_Start.cfg:229
+#: TWoD/scenarios/01_Start.cfg:229
 msgid "bow"
 msgstr ""
 
+#. [message]: speaker=holyfather
+#: TWoD/scenarios/01_Start.cfg:243
+msgid "Show, what you can! Destroy those Walking corpses!"
+msgstr ""
+
 #. [message]: speaker=narrator
-#: TWoD-master/scenarios/01_Start.cfg:270
+#: TWoD/scenarios/01_Start.cfg:270
 msgid "Brraaaiinnsss!!!"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:280
+#: TWoD/scenarios/01_Start.cfg:280
 msgid "Good start!"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:289
-msgid "Second walking corpse sent back to the cemetry!"
+#: TWoD/scenarios/01_Start.cfg:289
+msgid "Second walking corpse sent back to the cemetery!"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:298
-msgid "You have won in this small battle! Now you should go to the town and start your journey in The World of Death! Good luck, $nameinput!"
+#: TWoD/scenarios/01_Start.cfg:298
+msgid "You have won this small battle! Now you should go to the town and start your journey in The World of Death! Good luck, $nameinput!"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:316
+#: TWoD/scenarios/01_Start.cfg:316
 msgid "I will give you 200 goldpieces. You can earn more if you fulfill missions for the town guard. Use it wisely and try to stay alive in this terrible war!"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:364
+#: TWoD/scenarios/01_Start.cfg:344
 msgid "Thanks to Gray Gods, you was resurrected! However you need to pay 25% of your gold."
 msgstr ""
 
 #. [message]: speaker=you
-#: TWoD-master/scenarios/01_Start.cfg:389
+#: TWoD/scenarios/01_Start.cfg:389
 msgid "How could this happen?"
 msgstr ""
 
 #. [message]: speaker=holyfather
-#: TWoD-master/scenarios/01_Start.cfg:393
-msgid "Hahaha!! I will find someone else."
+#: TWoD/scenarios/01_Start.cfg:393
+msgid "Are you kidding? It's only beginning.. *facepalm*"
+msgstr ""
+
+#. [message]: speaker=you
+#: TWoD/scenarios/01_Start.cfg:403
+msgid "I'm feeling a lot better."
+msgstr ""
+
+#. [scenario]: id=05_northern_frontline
+#: TWoD/scenarios/05_Northern_Frontline.cfg:3
+msgid "Northern Frontline"
 msgstr ""
 
 #. [part]
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:11
+#: TWoD/scenarios/04_Dark_Capital.cfg:11
 msgid "Dark Capital is not the biggest city in Underworld. However it is so perfectly protected, that no army has ever conquered it. In the center of the city, there is a strange castle. It is the place, where Emperor Unknown lives. Nobody knows how to enter his palace."
 msgstr ""
 
 #. [label]
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:78
+#: TWoD/scenarios/04_Dark_Capital.cfg:78
 msgid "Emperror's Missions"
 msgstr ""
 
 #. [label]
-#: TWoD-master/scenarios/04_Dark_Capital.cfg:108
+#: TWoD/scenarios/04_Dark_Capital.cfg:108
 msgid "Railway station"
 msgstr ""
 
